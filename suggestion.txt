@@ -1,0 +1,3 @@
+Creating a fork in the repostiory makes a copy of repostiory which then can be used to propose changes within the repository or experiment with adding new code to the project without affecting the orginal prject.
+
+Pulling requests allow you to tell others about changes you have pushed to a repository that can be reviwed and disscued as well as changed before being merged into the reposoitory.
